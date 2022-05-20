@@ -1,0 +1,425 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 38px;
+}.u-section-2 .u-sheet-1 {
+  min-height: 834px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  width: 1418px;
+  margin: 20px -18px 20px auto;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 814px;
+  background-image: url("images/as.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 436px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 0 0 53px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 999px;
+  left: auto;
+  right: 11px;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 378px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 27px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  background-image: none;
+  margin: 53px auto 0 395px;
+  padding: 18px 51px 20px 49px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 842px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 28px;
+    width: 1199px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 697px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 835px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 324px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 20px;
+    margin-right: 219px;
+    margin-left: 231px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 777px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 770px;
+    margin: 24px -25px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 729px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 224px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 499px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 505px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-right: 1px;
+    margin-left: 38px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 53px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1794px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 527px;
+    margin: 158px auto 28px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 594px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-bottom: 0;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 536px;
+    order: 1;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 291px;
+    margin-top: 200px;
+    margin-bottom: 0;
+    width: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 478px;
+    order: 0;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding: 0 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 270px;
+    margin-right: 0;
+    margin-left: 39px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 15px;
+    margin-bottom: -171px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1967px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 5px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 641px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 778px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 188px;
+    width: 340px;
+    margin-top: 335px;
+    margin-right: -5px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 385px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 169px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 51px;
+    margin-bottom: -327px;
+    margin-left: 9px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 44px;
+}.u-block-a0a5-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-a0a5-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-a0a5-4 {
+  position: absolute;
+  right: 0;
+}
+.u-section-4-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Shinobu kocho [kimetsu no yaiba] (3000x1132).jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+ .u-section-4-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/1222651-6.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-4-2 .u-text-1 {
+  margin: 329px auto 0;
+}
+
+.u-section-4-2 .u-text-2 {
+  width: 837px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    margin-left: 29px;
+  }
+
+  .u-section-4-2 .u-text-2 {
+    width: auto;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+
+  .u-section-4-2 .u-text-2 {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4-2 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+  }
+
+  .u-section-4-2 .u-text-2 {
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+}
+
+ .u-section-4-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Goku MUI Fan Art [3840x2160].jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4-3 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-4-3 .u-text-1 {
+  margin: 60px auto 0;
+}
+
+.u-section-4-3 .u-text-2 {
+  width: 837px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4-3 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-4-3 .u-text-1 {
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4-3 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-4-3 .u-text-1 {
+    margin-left: 29px;
+  }
+
+  .u-section-4-3 .u-text-2 {
+    width: auto;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4-3 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-4-3 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+
+  .u-section-4-3 .u-text-2 {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4-3 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-4-3 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+  }
+
+  .u-section-4-3 .u-text-2 {
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+}
+.u-section-4-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/TATAKAE [Attack On Titan] (1920x1080).jpg");
+  background-position: 50% 50%;
+}
+.u-section-4-4 .u-sheet-1 {
+  min-height: 800px;
+}.u-section-5 .u-sheet-1 {
+  min-height: 40px;
+}
